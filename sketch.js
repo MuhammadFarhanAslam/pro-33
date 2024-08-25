@@ -27,7 +27,7 @@ function setup() {
   engine = Engine.create();
     world = engine.world;
     
-score=0
+score="Relax!!"
    
     snowman=new Snowman(1200,10,120,120)
     snowball=new Snowball(400,330,50,50)
